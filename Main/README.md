@@ -1,4 +1,4 @@
-There are 4 ipynb files:
+There are 5 ipynb files:
   1. DCE - It is used to compare 3 datasets by aggregated MSE Loss and PSNR values. It selects random 890 images from all 3 datasets.
            It enhances those images and saves them in the output folder.
            *Datasets:
@@ -15,5 +15,16 @@ There are 4 ipynb files:
 
 
   4. test - It takes input from the provided images in the "data/test/A" folder. Then it enhances them and saves in the output folder.
+
+
+  5. Degrade - This script helps to degrade underwater images into 7 types :
+ - Illumination: Variations in lighting conditions underwater.
+- Low Contrast: Reduced differentiation between objects and their background.
+- Color Cast: Unwanted color shifts in images.
+- Noisy: Presence of random, unwanted elements in the image.
+- Blurred: Loss of image sharpness and details.
+- Foggy: Simulation of foggy conditions underwater.
+- Desaturated: Reduction in image color intensity.
+
      
                           
