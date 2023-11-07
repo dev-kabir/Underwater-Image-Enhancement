@@ -31,8 +31,8 @@ There are 5 ipynb files:
 
 Download the datasets:
 
-1. EUVP: kaggle datasets download -d pamuduranasinghe/euvp-dataset
-2. UIEB: kaggle datasets download -d larjeck/uieb-dataset-raw
+1. EUVP: https://www.kaggle.com/datasets/pamuduranasinghe/euvp-dataset
+2. UIEB: https://www.kaggle.com/datasets/larjeck/uieb-dataset-raw
 
 
 **To create a degrade dataset use Degrade.ipynb on: https://teraboxapp.com/s/1oVhanbLyTnncq909X6f_gw
