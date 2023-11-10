@@ -43,6 +43,7 @@ Upon the completion of the testing loop, the project generated critical statisti
 - The total number of test images in the dataset.
 - The cumulative processing time for enhancing all images.
 - The average frames per second (FPS) achieved during the testing process. This was calculated as the reciprocal of the mean processing time, providing insights into the efficiency of the image enhancement process.
+- The MSE and PSNR results of dataset
 
 ## Dependencies
 
